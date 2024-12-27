@@ -1,16 +1,23 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "iabem_web_test",
+    "objectID": "symposium.html",
+    "href": "symposium.html",
+    "title": "IABEM Symposium",
     "section": "",
-    "text": "Hello to the IABEM test site."
+    "text": "The IABEM Symposium is the main conference of the IABEM. It is typically held every two to three years.\n\nUpcoming symposia\nThe next symposium is planned for 2027 at University College London\n\n\nPrevious symposia\n\nIABEM 2024 Workshop, Shenzhen, China, December 2-3, 2024"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "organization.html",
+    "href": "organization.html",
+    "title": "Organization",
     "section": "",
-    "text": "About this site"
+    "text": "Executive Council\n\n\n\n\n\nThe executive council is formed by these members.\n\nOlaf Steinbach …\n\n\n\n\n\n\n\n\n\n\nPast Presidents\n\n\n\n\n\n\nLuigi Morino, Italy (1989)\nShoichi Kobayashi, Japan (1990)\nThomas A. Cruse, USA (1991-1993)\nWolfgang L. Wendland, Germany (1994)\nThomas A. Cruse, USA (1995-1999)\nMarc Bonnet, France (1999-2011)\nMartin Schanz, Austria (2011-2018)"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "International Association of Boundary Element Methods",
+    "section": "",
+    "text": "The International Association for Boundary Element Methods (IABEM) was founded in late 1988 by Prof. Thomas A. Cruse of the US, Prof. Luigi Morino of Italy, and Prof. Shoichi Kobayashi of Japan. IABEM aims to advance the research and development of the boundary integral equation (BIE) and boundary element method (BEM), and to promote the applications of the BEM in industries.\nIABEM organizes the IABEM Symposium to provide a forum for researchers and engineers around the world to discuss the recent developments in the BEM and the new challenges ahead. IABEM Summer School or Short Courses on the BEM have also been offered by IABEM to train students and researchers on the topics of the BEM.\nMembership of IABEM is open to all interested researchers, engineers and students in the field of the BEM research with no membership dues. The IABEM is run by the Executive Council and supported by the Scientific Advisory Committee, of which all the members are active researchers in the BEM research and volunteers for IABEM.\nIABEM is affiliated with the IUTAM (International Union of Theoretical and Applied Mechanics)."
   }
 ]
