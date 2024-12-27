@@ -1,5 +1,11 @@
 ---
-title: "iabem_web_test"
+title: "International Association of Boundary Element Methods"
 ---
 
-Hello to the IABEM test site.
+The International Association for Boundary Element Methods (IABEM) was founded in late 1988 by Prof. Thomas A. Cruse of the US, Prof. Luigi Morino of Italy, and Prof. Shoichi Kobayashi of Japan. IABEM aims to advance the research and development of the boundary integral equation (BIE) and boundary element method (BEM), and to promote the applications of the BEM in industries.
+
+IABEM organizes the IABEM Symposium to provide a forum for researchers and engineers around the world to discuss the recent developments in the BEM and the new challenges ahead. IABEM Summer School or Short Courses on the BEM have also been offered by IABEM to train students and researchers on the topics of the BEM.
+
+Membership of IABEM is open to all interested researchers, engineers and students in the field of the BEM research with no membership dues. The IABEM is run by the Executive Council and supported by the Scientific Advisory Committee, of which all the members are active researchers in the BEM research and volunteers for IABEM.
+
+IABEM is affiliated with the IUTAM (International Union of Theoretical and Applied Mechanics).
