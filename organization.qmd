@@ -1,0 +1,30 @@
+---
+title: "Organization"
+---
+
+::: {.callout-note collapse="true" .callout-note appearance="minimal"}
+## Executive Council
+
+The executive council is formed by these members.
+
+- Olaf Steinbach
+...
+:::
+
+::: {.callout-note collapse="true" .callout-note appearance="minimal"}
+## Past Presidents
+
+- Luigi Morino, Italy (1989)
+- Shoichi Kobayashi, Japan (1990)
+- Thomas A. Cruse, USA (1991-1993)
+- Wolfgang L. Wendland, Germany (1994)
+- Thomas A. Cruse, USA (1995-1999)
+- Marc Bonnet, France (1999-2011)
+- Martin Schanz, Austria  (2011-2018)
+
+:::
+
+
+
+
+
